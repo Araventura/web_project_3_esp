@@ -1,0 +1,19 @@
+.logo__line_position_horizontal {
+    width: 32px;
+    height: 2px;
+    position: absolute;
+    left: 43.7%;
+    right: 44.44%;
+    top: 8.57%;
+    bottom: 88.57%;
+}
+
+.logo__line_position_vertical {
+    width: 2px;
+    height: 26px;
+    position: absolute;
+    left: 47.78%;
+    right: 51.48%;
+    top: 8.57%;
+    bottom: 54.29%;
+}
