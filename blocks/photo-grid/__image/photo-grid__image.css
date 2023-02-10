@@ -1,0 +1,6 @@
+.photo-grid__image {
+    list-style: none;
+    width: 284px;
+    height: 213px;
+    overflow: hidden;
+}
