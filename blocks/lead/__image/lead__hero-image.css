@@ -1,3 +1,6 @@
 .lead__hero-image {
     mix-blend-mode: luminosity;
+    height: 615px;
+    width: 984px;
+    overflow: hidden;
 }
