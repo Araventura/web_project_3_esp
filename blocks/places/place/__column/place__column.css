@@ -1,0 +1,11 @@
+.place__column {
+    width: 494px;
+}
+
+/* .place__column_place_left {
+    margin: auto;
+} */
+
+.place__column_place_right {
+padding-top: 160px;
+}
