@@ -7,5 +7,9 @@
 } */
 
 .place__column_place_right {
-padding-top: 160px;
+    padding-top: 108px;
+}
+
+.place__column_place_right p:nth-child(2) {
+    margin-bottom: 60px;
 }

@@ -4,4 +4,9 @@
     line-height: 76px;
     width: 460px;
     height: 152px;
+    margin-top: 0;
+}
+
+.place__title_width_long {
+    width: 584px;
 }
