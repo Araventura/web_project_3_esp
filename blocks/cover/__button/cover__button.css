@@ -1,0 +1,14 @@
+.cover__button {
+    height: 48px;
+    width: 198px;;
+    background-color: #0278fe;
+    border-radius: 4px;
+    box-shadow: none;
+    border: none;
+    z-index: 2;
+}
+
+.cover__button a {
+    color: white;
+    text-decoration: none;
+}
