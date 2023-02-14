@@ -5,3 +5,11 @@
     overflow: hidden;
     margin-top: 64px;
 }
+
+@media screen and (max-width: 320px) {
+    .lead__hero-image {
+        width: 100%;
+        height: auto;
+        margin-top: 40px;
+    }
+}

@@ -4,3 +4,7 @@
     height: 213px;
     overflow: hidden;
 }
+
+.photo-grid__image img {
+    width: 100%;
+}

@@ -7,3 +7,11 @@
     margin: auto;
     margin-top: 92px;
 }
+
+@media screen and (max-width: 320px) {
+    .lead {
+        width: auto;
+        height: auto;
+        margin-top: 51px;
+    }
+}
