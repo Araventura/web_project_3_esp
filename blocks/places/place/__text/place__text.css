@@ -4,4 +4,19 @@
     font-size: 18px;
     line-height: 22px;
     margin-top: 0;
+    grid-area: text;
+    grid-area: auto;
+}
+
+.place__text_artist{
+    grid-area: artist;
+}
+
+@media screen and (max-width:320px) {
+    .place__text {
+        width: 288px;
+        height: auto;
+        font-size: 16px;
+        line-height: 163%;
+    }
 }

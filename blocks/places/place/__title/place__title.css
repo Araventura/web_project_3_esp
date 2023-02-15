@@ -5,6 +5,7 @@
     width: 460px;
     height: 152px;
     margin-top: 0;
+    grid-area: title;
 }
 
 .place__title_width_long {
@@ -15,5 +16,7 @@
     .place__title {
         font-size: 32px;
         line-height: 35px;
+        height: auto;
+        width: 288px;
     }
 }

@@ -2,10 +2,37 @@
     display: flex;
     flex-direction: row;
     margin-top: 92px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-areas:
+    "title artist"
+    "pic text"
+    "pic text"
+    "button .";
 }
 
 @media screen and (max-width: 320px) {
  .place {
-    margin-top: 62px;
+    margin: 62px 16px auto;
+    grid-auto-flow: column;
+    grid-template-rows: auto;
+    grid-template-areas: 
+    "title"
+    "artist"
+    "pic"
+    "text"
+    "text"
+    "text"
+    "button";
  }
 }
+
+/* display: grid;
+grid-template-colums: repeat(2, 1fr);
+grid-template-rows: repeat(3, 1fr);
+grid-template-areas:
+"title artist
+pic text
+pic text
+button ." */

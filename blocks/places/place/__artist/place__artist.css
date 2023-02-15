@@ -5,6 +5,7 @@
     color: #AAAAAA;
     width: 58px;
     margin-bottom: 0;
+    grid-area: artist;
 }
 
 /* @media screen and (max-width: 320px) {

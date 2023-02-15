@@ -6,9 +6,21 @@
     box-shadow: none;
     border: none;
     margin-top: 48px;
+    grid-area: button;
 }
 
 .place__button a {
     text-decoration: none;
     color: #FFFFFF;
+}
+
+@media screen and (max-width:320px) {
+    .place__button {
+        width: 288px;
+    }    
+
+    .place__button a {
+        font-size: 14px;
+        line-height: 16.94px;
+    }
 }
