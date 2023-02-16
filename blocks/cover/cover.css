@@ -18,3 +18,16 @@
     z-index: 0;
     position: absolute;
 }
+
+@media screen and (max-width: 320px) {
+    .cover img {
+        width: 320px;
+        height: 254px;
+    }
+
+    .cover {
+        width: auto;
+        height: 254px;
+        margin-bottom: 64px;
+    }
+}
