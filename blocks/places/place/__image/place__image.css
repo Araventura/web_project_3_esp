@@ -5,6 +5,9 @@
     grid-area: pic;
 }
 
+.place__image img {
+    width: 100%;
+}
 @media screen and (max-width: 320px) {
     .place__image {
         width: 320px;

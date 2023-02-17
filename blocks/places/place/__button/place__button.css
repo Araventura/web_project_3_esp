@@ -17,6 +17,7 @@
 @media screen and (max-width: 320px) {
     .place__button {
         width: 288px;
+        margin-top: 0;
     }    
 
     .place__button a {

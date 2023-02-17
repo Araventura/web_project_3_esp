@@ -1,15 +1,3 @@
 .place__column {
     width: 494px;
 }
-
-/* .place__column_place_left {
-    margin: auto;
-} */
-
-.place__column_place_right {
-    padding-top: 108px;
-}
-
-.place__column_place_right p:nth-child(2) {
-    margin-bottom: 60px;
-}
