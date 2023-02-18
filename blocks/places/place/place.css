@@ -37,5 +37,9 @@
         max-width: 768px;
         margin: 88px 24px auto;
     }
+
+    .places .place:nth-child(4) button {
+        margin-top: -350px;
+    }
 }
 
