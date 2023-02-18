@@ -16,3 +16,9 @@
         height: 88px;
     }
 }
+
+@media screen and (min-width: 321px) and (max-width: 768px) {
+    .lead__title {
+        width: 768px;
+    }
+}

@@ -13,3 +13,10 @@
         margin-top: 40px;
     }
 }
+
+@media screen and (min-width: 321px) and (max-width: 768px) {
+    .lead__hero-image {
+        margin-top: 69px;
+        width: 100%;
+    }
+}

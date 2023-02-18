@@ -14,3 +14,10 @@
         margin: 0;
     }
 }
+
+@media screen and (min-width: 321px) and (max-width: 768px) {
+    .intro__title {
+        width: 720px;
+        margin-bottom: 15px;
+    }
+}

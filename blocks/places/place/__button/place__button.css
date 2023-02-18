@@ -25,3 +25,10 @@
         line-height: 16.94px;
     }
 }
+
+@media screen and (min-width: 321px) and (max-width: 768px) {
+    .place__button a {
+        font-size: 18px;
+        line-height: 22px;
+    }
+}

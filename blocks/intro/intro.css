@@ -13,3 +13,11 @@
         box-sizing: border-box;
     }   
 }
+
+@media screen and (min-width: 321px) and (max-width: 768px)  {
+    .intro {
+        width: 768px;
+        padding-left: 24px;
+        box-sizing: border-box;
+    }
+}
